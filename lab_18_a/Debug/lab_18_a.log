@@ -1,0 +1,8 @@
+﻿  lab_18_a.cpp
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(82,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(88,18): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(104,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lab_18_a\lab_18_a\Header.h(107,25): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_18_a.vcxproj -> C:\Users\User\source\repos\lab_18_a\Debug\lab_18_a.exe
